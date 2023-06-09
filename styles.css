@@ -61,7 +61,7 @@ p {
 }
 
 #profile {
-    clip-path: circle(75x at center);
+    clip-path: circle(75px at center);
     max-width: 60%;
     margin-top: 10px;
 }
